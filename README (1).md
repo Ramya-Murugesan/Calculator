@@ -38,7 +38,7 @@ Ensure you have the following installed:
     ```bash
     cd Calculator
     ```
-- Run the ToDo List application
+- Run the ToDo List application:
 
     ```bash
     Calculator.py
@@ -71,7 +71,7 @@ mail-id:- ramyaarthi470@gmail.com
 
 Linkedin:- https://www.linkedin.com/in/ramya-murugesan-882407210
 
- Stay Organised and Productive !
+Happy Calculating!
 
 
 
