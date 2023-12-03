@@ -38,7 +38,7 @@ Ensure you have the following installed:
     ```bash
     cd Calculator
     ```
-- Run the ToDo List application:
+- Run the application:
 
     ```bash
     Calculator.py
